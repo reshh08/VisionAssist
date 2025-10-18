@@ -1,6 +1,5 @@
 opencv-python
 numpy
-matplotlib
 pytesseract
 speechrecognition
 pyttsx3
